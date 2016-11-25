@@ -23,4 +23,5 @@ This project uses jasmine to test a feed reader website. Tests include:
 * New Feed Selection
   * When a new feed is loaded by the loadFeed function that the content actually changes.
 
-You can download the code, unzip it, then open index.html.
+You can download the code, unzip it, then open index.html, or play it on github page: https://direction123.github.io/Udacity-Feedreader-Testing/
+
