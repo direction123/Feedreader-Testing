@@ -9,7 +9,7 @@ https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?v=fe1
 This project uses jasmine to test a feed reader website. Tests include:
 
 * RSS Feeds
-** Feeds has been defined
+  * Feeds has been defined
 ** Each feed has a URL defined and that the URL is not empty
 ** Each feed has a name defined and that the name is not empty 
 
@@ -23,4 +23,4 @@ This project uses jasmine to test a feed reader website. Tests include:
 * New Feed Selection
 ** When a new feed is loaded by the loadFeed function that the content actually changes.
 
-You can download the code, unzip it, then open index.html, or play it on github page: https://direction123.github.io/Udacity-Feedreader-Testing/
+You can download the code, unzip it, then open index.html.
